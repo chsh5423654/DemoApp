@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\DemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\putcode_dailog.xml",
+        "source": "D:\\AndroidStudioProjects\\DemoApp\\app\\src\\main\\res\\layout\\putcode_dailog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\get_red_packet.xml",
+        "source": "D:\\AndroidStudioProjects\\DemoApp\\app\\src\\main\\res\\layout\\get_red_packet.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\DemoApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

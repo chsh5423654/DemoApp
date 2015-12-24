@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\DemoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\AndroidStudioProjects\DemoApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_d3721fb32ca38936e4b69717bb4479e0dc641569.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DemoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\AndroidStudioProjects\DemoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_32cbac4cd7a1321260dbb0efb2a41a9622db3c36.jar" />
+    </item>
+    <item
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\AndroidStudioProjects\DemoApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_abdea0359f0e05be7d478ed15f4e04968fbe785d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DemoApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="614860b19dfac717fbabe26a7c0d909c48f6fad1">
+        <dex dex="D:\AndroidStudioProjects\DemoApp\app\build\intermediates\pre-dexed\debug\instant-run_aa5daa3ac8aaeb321c58adfe8a55f01c9ab078d8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DemoApp\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7d7518b0710e4a7e909728681915f6d8d7e11a2d">
+        <dex dex="D:\AndroidStudioProjects\DemoApp\app\build\intermediates\pre-dexed\debug\classes_ac721efab1277cf0f6b98559dedbf4ed490294c1.jar" />
+    </item>
+
+</items>
